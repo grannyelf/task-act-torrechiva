@@ -50,33 +50,6 @@
                 </div>
                 <!-- End Avatar Group -->
 
-                <!-- Form -->
-                <form>
-                    <div
-                        class="mx-auto max-w-2xl sm:flex sm:space-x-3 p-3 bg-layer border border-layer-line rounded-lg">
-                        <div class="w-full pb-2 sm:pb-0">
-                            <label for="hs-hero-name-1" class="block text-sm font-medium text-foreground"><span
-                                    class="sr-only">Your name</span></label>
-                            <input type="text" id="hs-hero-name-1"
-                                class="py-2.5 sm:py-3 px-4 block w-full bg-transparent border-transparent rounded-lg sm:text-sm text-foreground placeholder:text-muted-foreground-1 focus:border-primary-focus focus:ring-primary-focus"
-                                placeholder="Your name">
-                        </div>
-                        <div class="pt-2 sm:pt-0 sm:ps-3 border-t border-line-2 sm:border-t-0 sm:border-s w-full">
-                            <label for="hs-hero-email-1" class="block text-sm font-medium text-foreground"><span
-                                    class="sr-only">Your email address</span></label>
-                            <input type="email" id="hs-hero-email-1"
-                                class="py-2.5 sm:py-3 px-4 block w-full bg-transparent border-transparent rounded-lg sm:text-sm text-foreground placeholder:text-muted-foreground-1 focus:border-primary-focus focus:ring-primary-focus"
-                                placeholder="Your name">
-                        </div>
-                        <div class="whitespace-nowrap pt-2 sm:pt-0 grid sm:block">
-                            <a class="py-3 px-4 inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg bg-primary border border-primary-line text-primary-foreground hover:bg-primary-hover focus:outline-hidden focus:bg-primary-focus disabled:opacity-50 disabled:pointer-events-none"
-                                href="#">
-                                Get started
-                            </a>
-                        </div>
-                    </div>
-                </form>
-                <!-- End Form -->
 
                 <!-- SVG Element -->
                 <div class="hidden absolute top-2/4 start-0 transform -translate-y-2/4 -translate-x-40 md:block lg:-translate-x-80"
